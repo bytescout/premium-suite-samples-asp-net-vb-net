@@ -1,0 +1,11 @@
+## Index of source code examples:
+
+\Batch read barcodes to csv with barcode reader sdk
+\Decode page by page from pdf or tiff with barcode reader sdk
+\Generate Barcode in VB Non-Visual class with BarCode SDK
+\Generate Barcode in VB with BarCode SDK.NET Local Reports (RDLC)
+\Generate barcode in WebImage control in VB with BarCode SDK.NET
+\Read barcode with barcode reader sdk
+\Read barcodes from image with barcode reader sdk
+\Read barcodes from pdf with barcode reader sdk
+\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
